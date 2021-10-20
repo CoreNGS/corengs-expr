@@ -1,3 +1,7 @@
+CoreNGS EXPR:
+-------------
+This is an experimental fork of FreeBSD dedicated specifically for unstable/experimental testing for CoreNGS build tools, can be compiled but is not recommended for any production use, and should absolutely NOT be used for any CoreNGS releases.
+
 FreeBSD Source:
 ---------------
 This is the top level of the FreeBSD source directory.
